@@ -19,9 +19,11 @@ app.use('/api/auth', authRoutes);
 app.use('/api/projects', projectRoutes);
 app.use('/api/tasks', taskRoutes);
 
+
 app.get('/', (req, res) => {
   res.send('API is running successfully...');
 });
+
 
 
 // Error Handling
