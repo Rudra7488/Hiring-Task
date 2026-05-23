@@ -16,8 +16,8 @@ A production-ready internal tool built using the MERN stack (MongoDB, Express, R
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose, JWT, bcryptjs
 
 ## Live Deployment URLs
-- **Frontend (Vercel)**: [Insert Your Frontend URL Here]
-- **Backend (Render)**: [Insert Your Backend URL Here]
+- **Frontend (Vercel)**: [https://hiring-task-bice.vercel.app]
+- **Backend (Render)**: [https://hiring-task-87gt.onrender.com]
 
 ## Folder Structure
 ```
